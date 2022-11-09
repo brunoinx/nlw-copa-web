@@ -23,7 +23,7 @@ Aplicação para participar de bolões da Copa do Mundo 2022.
 ## :rocket: Como instalar e executar:
 
 ```bash
-  git clone https://github.com/brunoinx/nlw-copa-mobile.git; // ALTERAR
+  git clone https://github.com/brunoinx/nlw-copa-web.git;
 
   cd web;
   yarn or npm install (install all dependencies);
